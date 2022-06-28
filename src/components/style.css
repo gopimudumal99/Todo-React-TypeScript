@@ -64,12 +64,25 @@
     flex: 1;
     padding: 5px;
     border: none;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .todos__single--text:focus{
     outline: none;
 }
+
+.todos__single--text-input{
+    flex: 1;
+    padding: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+.todos__single--text-input:focus{
+    outline: none;
+
+}
+
 
 .icon{
     margin-left:10px ;
